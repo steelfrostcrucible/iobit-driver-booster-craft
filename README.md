@@ -33,4 +33,4 @@ Project page: https://iobit-driver-booster-craft.softnation.xyz
 
 ## A note on usage
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.      
+> For personal, lawful use only. Trademarks are the property of their owners.       
